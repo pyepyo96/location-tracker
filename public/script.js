@@ -1,4 +1,5 @@
-const SERVER_URL = 'http://localhost:3000'; // Replace with your deployed backend URL if hosted remotely
+const SERVER_URL = 'https://location-tracker-dhfw.onrender.com';
+ // Replace with your deployed backend URL if hosted remotely
 
 // Initialize the map
 const map = L.map('map').setView([0, 0], 2); // Default world view
